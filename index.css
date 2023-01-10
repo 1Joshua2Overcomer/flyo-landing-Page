@@ -355,12 +355,12 @@ footer a:hover{
         display: flex;
     }
     #form_email{
-        width: 100%;
+        width: 130%;
         height: 3rem;
     }
 
     .form #form_button{
-        width: 50%;
+        width: 60%;
         height: 3rem;
     }
     
